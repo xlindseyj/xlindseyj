@@ -1,6 +1,4 @@
+### Introduction
 - 👋 Hi, I’m @xlindseyj
-
-<!---
-xlindseyj/xlindseyj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- A freelance developer based in Columbus, Ohio
+- Owner of (Lindsey Web Solutions, LLC)[https://www.lindseywebsolutions.com]
